@@ -1,0 +1,5 @@
+-- Title: TouchAndDrag
+-- Name: Laura Duffley
+-- Course: ICS2O/3C
+-- This program has two images on the screen. 
+-- When you click and drag on each image, it moves with my finger.
